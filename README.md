@@ -2,8 +2,8 @@ AUTHOR: UBI, JOSEPH BASSEY
 LANGUAGE: HTML
 ========================================
 
-This is a project based repo for my HTML
-learning, it would have all the details 
+This is a p portfolio project landing
+page, it would have all the details 
 of my learning progress and updates on
 project will be explicitely stated here.
 
